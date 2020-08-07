@@ -1,5 +1,5 @@
 {
-  "name": "lider_palindromos",
+  "name": "palindrome-prods-webapp",
   "version": "1.0.0",
   "private": true,
   "description": "Palindrome products discount prototype web server.",
@@ -17,8 +17,9 @@
   "dependencies": {
     "concurrently": "^5.2.0",
     "express": "^4.17.1",
-    "mongoose": "^5.9.26",
-    "nodemon": "^2.0.4"
+    "mongoose": "^5.9.26"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
