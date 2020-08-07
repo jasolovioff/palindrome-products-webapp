@@ -1,27 +1,27 @@
 @font-face {
   font-family: 'Bogle';
-  src: url('https://www.lider.cl/fonts/Bogle-Regular.woff2') format('woff2');
+  src: url('fonts/Bogle-Regular.woff2') format('woff2');
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Bogle';
-  src: url('https://www.lider.cl/fonts/Bogle-Regular.woff2') format('woff2');
+  src: url('fonts/Bogle-Regular.woff2') format('woff2');
   font-weight: 900;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Bogle';
-  src: url('https://www.lider.cl/fonts/Bogle-Bold.woff2') format('woff2');
+  src: url('fonts/Bogle-Bold.woff2') format('woff2');
   font-weight: bold;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Bogle';
-  src: url('https://www.lider.cl/fonts/Bogle-Regular.woff2') format('woff2');
+  src: url('fonts/Bogle-Regular.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
