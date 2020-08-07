@@ -7,12 +7,6 @@ import * as serviceWorker from './serviceWorker';
 import './static/styles/iconfont.css';
 import './static/styles/main.css';
 import './static/styles/wmt.css';
-import './static/css/9.css';
-import './static/css/7.css';
-import './static/css/6.css';
-import './static/css/18.css';
-import './static/css/16.css';
-
 import App from './App';
 import reducers from './reducers';
 
