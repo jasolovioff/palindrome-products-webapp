@@ -68,7 +68,7 @@ class Header extends Component{
                         <div className="cart-supermarket-width">
                             <div className="cart-container" style={{backgroundColor: "rgb(6, 86, 143)"}}>
                                 <li className="list-inline-item cart-dropdown dropdown nav-item">
-                                    <a aria-haspopup="true" href="#" className="p-0 nav-link" aria-expanded="false">
+                                    <a aria-haspopup="true" href="#top" className="p-0 nav-link" aria-expanded="false">
                                         <div id="shoppingCart" className="d-flex justify-content-between shopping-cart-images">
                                             <img alt="cart" src={lider_cart} width="29" height="25"/>
                                             <div className="cart-quantity">
