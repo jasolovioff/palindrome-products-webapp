@@ -4,8 +4,6 @@ import { Provider } from 'react-redux';
 import { createStore, applyMiddleware} from 'redux';
 import reduxThunk from 'redux-thunk';
 import * as serviceWorker from './serviceWorker';
-import './static/fonts/BogleWeb_subset-Bold.woff2';
-import './static/fonts/BogleWeb_subset-Regular.woff2';
 import './static/styles/iconfont.css';
 import './static/styles/main.css';
 import './static/styles/wmt.css';
